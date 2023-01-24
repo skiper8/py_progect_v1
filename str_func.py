@@ -1,5 +1,5 @@
 def str_upper(word):
-
+    """Делает все слово заглавными буквами"""
     return word.upper()
 
 
